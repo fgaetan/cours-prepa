@@ -1,0 +1,51 @@
+@import url(../fonts/Gantari-VariableFont_wght.ttf);
+@import url(../fonts/JosefinSans-VariableFont_wght.ttf);
+@import url(../fonts/RobotoMono-VariableFont_wght.ttf);
+* {
+  text-decoration: none;
+  color: unset;
+  list-style: none;
+}
+* ul {
+  padding: unset;
+}
+
+header {
+  background: rgb(0, 110, 255);
+  color: white;
+  padding: 1vh;
+  text-align: center;
+}
+header h1 {
+  font-size: 3vh;
+}
+
+main {
+  display: flex;
+}
+main nav {
+  background: rgb(30, 30, 40);
+  color: white;
+  position: fixed;
+  height: 100%;
+}
+main nav li {
+  padding: 2vh 5vh;
+  text-align: center;
+}
+main nav li:hover {
+  background: rgb(10, 10, 20);
+}
+
+footer {
+  background: rgb(0, 110, 255);
+  color: white;
+  text-align: center;
+  padding: 1vh;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+/*# sourceMappingURL=style.css.map */

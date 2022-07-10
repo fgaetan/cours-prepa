@@ -1,0 +1,62 @@
+3 PROJETS A FAIRE:
+https://www.youtube.com/watch?v=0dniPB_eluw
+
+1 - SYNTAXE - TODO LIST - <5 fonctionnalites - (5 a faire, dont 2 en JS natif)
+- apprendre les fondamentaux d'une techno :
+gerer l'ajout, suppression et modification d'elements,
+gerer les evenements utilisateur et au clic,
+et appliquer une eventuelle logique de tri et de filtre
+
+2 - SYNERGIE - BLOG - <10 fonctionnalites - (3 a faire)
+gestion des articles,
+leurs categorie,
+la fonction de recherche,
+relation entre 1 article et 1 auteur,
+qui aura sa page dediee avec un formulaire de contact
+
+3 - SYSTEME - RESEAU SOCIAL - (1 a faire) PROJET FINAL
+- front-end
+- back-end
+- gestion des donnees (database),
+- des utilisateurs
+- integration des API externes
+
+///////////////////////////////////////////////////////////////
+9 ETAPES POUR DEVENIR DEV-
+IMPORTANCE/TECHNO/FACILITE
+
+1 - ★★★★★ - HTML - ★
+
+2 - ★★★★★ - CSS - ★★★
++prepocesseur (SASS)
++convention de nommage (BEM)
+/bootstrap /tailwind
+
+3 - ★★★★★ - ALGORITHMIQUE - ★★
++programmation orintee objet (POO) (objets/classes)
+
+4 - ★★★★★ - JS ES6 - ★★★★
+natif, puis
++REACT/ANGULAR/VUE (VUE)
+
+5 - ★★★★ - PHP - ★★★
+natif, puis
++SYMFONY/LARAVEL (LARAVEL)
+
+6 - ★★ - PYTHON - ★★★
+pour DataScience, IA, Automatisation, applis (optionnel)
+
+7 - ★★★★★ - SQL - ★★★
++BDD type relationnelles
+
+8 - ★★★★★ - Git - ★★★
+versionning et ajout/fonctionnalites
+
+9 - ★★★★★ - SERVEURS - ★★
+architecture du web
+- requetes http
+- nom de domaine
+- serveur dns
+- serveur web
+- ssl
+- mise en cache
